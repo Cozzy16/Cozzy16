@@ -1,14 +1,9 @@
 # 💫 About Me:
-🌧️ I’m currently working on Cryonix-V2<br>🤝 I’m looking to collaborate with Illusion<br>🫂 I’m looking for help with IDA or Any Disassembler<br>🌱 I’m currently learning Roblox Mechanics<br>💬 Ask me about Cryonix-V2 Released<br>⚡ Fun fact I don't know how to use IDA Properly.
+🌧️ I’m currently working on Umbrella-Technology<br>🤝 I’m looking to collaborate with anyone<br>🫂 I’m looking for help with Developments<br>🌱 I’m currently learning to be Fully-Stacked Developer<br>💬 Ask me about Umbrella-Technology<br>⚡ Fun fact I don't know how to make plans properly.
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EecdaaUGy2) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/itzC9) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@silent_itzC9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itzyuki23) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@N/A)
-
-Got it, Yuri ⚡. Right now your profile looks like a dump of every badge possible — flexy, but it doesn’t actually scream “this is me, this is my real stack”.
-
-Based on what I know about you (grey-hat hacker, Roblox exploit dev, full-stack learner, C++/C/PHP/JS/Python core, Roblox UI builder, game engine dreamer, security-minded), here’s a cleaned-up and personalized Tech Stack section that shows your actual strengths instead of random fluff:
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/ccozzyy.silly) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/itzC9) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cozzy.yurii) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itzyuki23) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@silent_itzC9)
 
 ---
 
