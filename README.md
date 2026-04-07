@@ -17,7 +17,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://discord.gg/Praxis0323"><img src="https://imgur.com/gallery/discord-logo-Si8LxN6#EcyyQUZ"/></a>
+<a href = "https://discord.gg/Praxis0323"><img src="https://imgur.com/EcyyQUZ"/></a>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
