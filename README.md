@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=26&lines=Hi+there,+I+am+Praxis;Rip+Aether+:(;oh+i+hate+this;"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=26&lines=Hi+there,+I+am+Praxis;Rip+Aether+:(;"/>
 </p>
 
 <p align='center'><a href="https://github.com/hoemotion"> <img src="https://github-widgetbox.vercel.app/api/profile?username=PraxisDevs&data=followers,repositories,stars,commits&theme=metropolis"/> </a></p>
